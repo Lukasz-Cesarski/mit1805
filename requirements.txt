@@ -1,9 +1,0 @@
-matplotlib
-numpy
-requests-html
-seaborn
-scikit-learn
-pandas
-lxml
-jupyter
-jupyterlab
